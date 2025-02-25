@@ -1,0 +1,13 @@
+numpy==2.2.3
+scikit-learn==1.6.1
+pandas==2.2.1
+lightgbm==4.6.0
+onnx==1.17.0
+onnxruntime==1.17.3
+onnxmltools==1.13.0
+skl2onnx==1.18.0
+joblib==1.4.2
+threadpoolctl==3.5.0
+protobuf==3.20.2
+requests==2.31.0
+tqdm==4.66.2
